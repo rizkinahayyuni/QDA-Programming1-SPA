@@ -3,7 +3,7 @@
         <b-card class="text-center centered" style="border: none;">
             <h3>Bagikan Aksimu</h3>
             <h1>#BanggaPunyaKantongBelanja</h1>
-            <br/> <b-card-img src="/static/logo-bpkb.png" style="max-width: 20rem;"/> <br/> 
+            <br/> <b-card-img src="/static/action-img.png" style="max-width: 20rem;"/> <br/> 
             <h3>Kami mengajak kalian untuk ikut bersama kami menjadi bagian dari KitaBPKB!</h3>
         </b-card>
         <p>Aksi ini adalah salah satu bentuk perjuangan kita untuk lebih Cinta Lingkungan. Kita menyadari kebiasaan 
